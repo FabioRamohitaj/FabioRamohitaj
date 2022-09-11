@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FabioRamohitaj
+- 👋 Hi, I’m Fabio Ramohitaj
 - 👀 I’m interested in Linux,MongoDB,PostgreSQL
 - 🌱 I’m currently learning MongoDB, Linux
 - 💞️ I’m looking to collaborate on ...
