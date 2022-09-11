@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FabioRamohitaj
-- 👀 I’m interested in linux,MongoDB,PostgreSQL
+- 👀 I’m interested in Linux,MongoDB,PostgreSQL
 - 🌱 I’m currently learning MongoDB, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fab.ramohitaj@gmail.com
