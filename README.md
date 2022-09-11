@@ -8,3 +8,18 @@
 FabioRamohitaj/FabioRamohitaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+### Languages :computer:
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
+### Technologies :rocket:
+
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
